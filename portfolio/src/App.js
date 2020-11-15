@@ -18,7 +18,7 @@ constructor(props) {
   this.state = {
     title: "JP Nederveld",
     headerLinks: [
-      { title: "Home", path: "/" },
+      { title: "Home", path: "/home" },
       { title: "Contact", path: "/contact" },
       { title: "Portfolio", path: "/portfolio" }
     ],
@@ -43,7 +43,7 @@ constructor(props) {
             <Navbar.Toggle aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml-auto">
-                <Link className="nav-link" to="/">Home</Link>
+                <Link className="nav-link" to="/home">Home</Link>
                 <Link className="nav-link" to="/portfolio">Portfolio</Link>
                 <Link className="nav-link" to="/contact">Contact</Link>
               </Nav>

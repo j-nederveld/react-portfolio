@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.0d45a52a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.0d45a52a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.2c037d18.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.2c037d18.js.map",
+    "static/css/2.43b2b750.chunk.css": "/react-portfolio/static/css/2.43b2b750.chunk.css",
+    "static/js/2.02e3e37e.chunk.js": "/react-portfolio/static/js/2.02e3e37e.chunk.js",
+    "static/js/2.02e3e37e.chunk.js.map": "/react-portfolio/static/js/2.02e3e37e.chunk.js.map",
+    "static/js/3.d7b9010f.chunk.js": "/react-portfolio/static/js/3.d7b9010f.chunk.js",
+    "static/js/3.d7b9010f.chunk.js.map": "/react-portfolio/static/js/3.d7b9010f.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/react-portfolio/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-portfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.02e3e37e.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.02e3e37e.chunk.js.LICENSE.txt",
+    "static/media/Resume.b000f139.pdf": "/react-portfolio/static/media/Resume.b000f139.pdf",
+    "static/media/artbook.023d9136.png": "/react-portfolio/static/media/artbook.023d9136.png",
+    "static/media/current-weather.0bdd9dbc.png": "/react-portfolio/static/media/current-weather.0bdd9dbc.png",
+    "static/media/eatdaburger.5e7a12a6.png": "/react-portfolio/static/media/eatdaburger.5e7a12a6.png",
+    "static/media/jscode2.6d246a93.png": "/react-portfolio/static/media/jscode2.6d246a93.png",
+    "static/media/pfp.c90bb726.jpg": "/react-portfolio/static/media/pfp.c90bb726.jpg",
+    "static/media/real-estate1.f76cbd7d.png": "/react-portfolio/static/media/real-estate1.f76cbd7d.png",
+    "static/media/real-estate2.ce63517b.png": "/react-portfolio/static/media/real-estate2.ce63517b.png",
+    "static/media/real-estate3.6831cd9c.png": "/react-portfolio/static/media/real-estate3.6831cd9c.png",
+    "static/media/workdayplanner.7324754a.png": "/react-portfolio/static/media/workdayplanner.7324754a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c037d18.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.02e3e37e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0d45a52a.chunk.js"
+  ]
+}

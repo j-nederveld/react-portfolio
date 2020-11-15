@@ -51,6 +51,7 @@ constructor(props) {
           </Navbar>
 
           <Route path="/" exact render={() => <Home title={this.state.home.title} />} />
+          <Route path="/react-portfolio" exact render={() => <Home title={this.state.home.title} />} />
           <Route path="/portfolio" exact render={() => <Portfolio title={this.state.portfolio.title} />} />
           <Route path="/contact" exact render={() => <Contact title={this.state.contact.title} />} />
 

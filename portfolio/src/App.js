@@ -6,10 +6,9 @@ import Nav from 'react-bootstrap/Nav';
 import './App.css';
 
 import Footer from './components/Footer';
-import Home from './pages/Home'
-import About from './pages/About'
+import Home from './pages/Home';
 import Portfolio from './pages/Portfolio'
-import Contact from './pages/Contact'
+import Contact from './pages/Contact';
 import Hero from './components/Jumbotron';
 
 class App extends React.Component {
@@ -20,15 +19,11 @@ constructor(props) {
     title: "JP Nederveld",
     headerLinks: [
       { title: "Home", path: "/" },
-      { title: "About", path: "/about" },
       { title: "Contact", path: "/contact" },
       { title: "Portfolio", path: "/portfolio" }
     ],
     home: {
       title: "Creative Solutions"
-    },
-    about: {
-      title: "About Me"
     },
     portfolio: {
       title: "Portfolio"

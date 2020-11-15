@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 function Contact(props) {
     return(
 <>
@@ -21,7 +20,7 @@ function Contact(props) {
         <label for="fname">Email:</label><br />
         <input class="formInput" type="text" id="email" name="email" placeholder="example@gmail.com" /><br /><br />
         <label for="fname">Message:</label><br />
-        <textarea class="formInput" id="message" name="message" placeholder="What can I do for you?" style="height: 170px; width: 100%;"></textarea><br />
+        <textarea class="formInput" id="message" name="message" placeholder="What can I do for you?" style={{height: "170px; width: 100%"}}></textarea><br />
         <br />
         <button type="button" class="btn btn-success">Submit</button>
       </form>
